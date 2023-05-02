@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextSubtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextMedium.Purple" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/shoppi_purple</item>
+    </style>
+</resources>
